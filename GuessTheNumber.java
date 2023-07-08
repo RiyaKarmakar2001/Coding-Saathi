@@ -1,4 +1,4 @@
-package com.rohan_javaInternshipTasks;
+package com.riya_javaInternshipTasks;
 import java.util.Scanner;
 public class GuessTheNumber {
 	void numberGuessingGame() {
